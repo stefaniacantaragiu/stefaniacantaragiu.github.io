@@ -5,27 +5,11 @@ Hi everyone
 ### Here is a photo of me and contacts
 
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](https://www.linkedin.com/in/stefania-cantaragiu-0771a4189) and ![Image](IMG_6525.jpg)
-```
 ![Image](IMG_6525.jpg)
-[Link](https://www.linkedin.com/in/stefania-cantaragiu-0771a4189)
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+
+[Linkledn](https://www.linkedin.com/in/stefania-cantaragiu-0771a4189)
+
 
 ### Jekyll Themes
 
