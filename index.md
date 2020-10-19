@@ -23,7 +23,8 @@ Syntax highlighted code block
 
 [Link](https://www.linkedin.com/in/stefania-cantaragiu-0771a4189) and ![Image](IMG_6525.jpg)
 ```
-
+![Image](IMG_6525.jpg)
+[Link](https://www.linkedin.com/in/stefania-cantaragiu-0771a4189)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
